@@ -1,0 +1,3 @@
+[submodule "words-cloud-go"]
+	path = words-cloud-go
+	url = git@git.auckland.dynabic.com:words-cloud/words-cloud-go.git
